@@ -1,1 +1,1 @@
-# marvijokhio-Multinomial-Naive-Bayes-Algorithm
+Multinomial-Naive-Bayes-Algorithm
